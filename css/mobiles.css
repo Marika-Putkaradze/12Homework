@@ -1,27 +1,60 @@
 @media only screen and (max-width: 768px) 
 {
     .header {
-        padding: 8px;
-        flex-direction: column;
-        text-align: center;
+        width: 460px;
+        height: 116px;
+        padding: 34px 8px 34px 8px;
+       
+        
     }
 
      /* section1  */
      .section1 {
-        padding: 8px;
+        width: 460px;
+height: 642px;
+top: 116px;
+gap: 0px;
+opacity: 0px;
+
+
     }
     .section1Cover {
-        height: 240px;
+        width: 444px;
+height: 578px;
+top: 32px;
+left: 8px;
+gap: 0px;
+border-radius: 20px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+
     }
     .divSection {
-        flex-direction: column;
+        width: 428px;
+height: 466px;
+top: 88px;
+left: 8px;
+gap: 0px;
+opacity: 0px;
+
     }
 
-    .ul1 li {
-        margin: 10px 0;
-    }
+  .h2{
+    width: 193px;
+    height: 32px;
+    top: 24px;
+    left: 100px;
+    gap: 0px;
+    opacity: 0px;
+    
+  }
 
-    .form {
-        padding: 10px;
-    }
+  .form{
+    width: 428px;
+height: 466px;
+top: 88px;
+left: 8px;
+gap: 0px;
+opacity: 0px;
+
+  }
 }
