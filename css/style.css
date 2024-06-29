@@ -24,7 +24,7 @@
    margin-left: 50px;
 }
 .logoimg:hover {
-    background-color: #767b80;
+    filter: blur(2px);
   }
 
 
