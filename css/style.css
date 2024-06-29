@@ -14,14 +14,12 @@
     align-items: center;
     padding: 10px 20px;
     background-color: #200029;
-    width: 1440px;
-    height: 116px;
     position: relative;
     display: flex;
-
 }
 
 .logoimg {
+    width: 100%;
     height: 40px;
    margin-left: 50px;
 }
@@ -266,3 +264,6 @@ border: 2px solid rgb(176, 50, 165);
 .checkbox{
     color: white;
 }
+
+/* ქ-ლ თამუნა რესპონსივის გაკეთება მინდოდა  მაგრამ ერ გავიგე, იმ ლექციას ვნახავ თავიდან რომელშიც რესპონსივს ხსნით.  მადლობა, ამასაც რასაც  ვაწყობ(ვიცი ბევრი შეცდომა მაქვს) ვერ წარმომედგინა,რომ ოდესმე ავაწყობდით <3 */
+
